@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Hieu 👋
 
 <!--
 **hieuvu99/hieuvu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on building an pos-application
+- 🌱 I’m currently learning Springboot and Next.js
+- 👯 I’m looking to collaborate on my pos application
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
